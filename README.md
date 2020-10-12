@@ -1,7 +1,7 @@
 
 
-## THIS IS A SIMPLE APP THAT I CREATED FOR LEARN
-## IT JUST GENERATE THE MULTIPLICATION TABLE THAT U WISH
+## This is a simple app that I created for learn
+## It just generate th multiplication table that u wish
 
 Command for install: npm install
 
